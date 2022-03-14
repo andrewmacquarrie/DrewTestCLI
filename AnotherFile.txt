@@ -1,3 +1,4 @@
 Some text
 More text
+MORE text
 final line
