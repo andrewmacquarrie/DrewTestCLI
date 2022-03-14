@@ -1,4 +1,4 @@
 Some text
 More text
-MORE text
+MORE text - local version
 final line
