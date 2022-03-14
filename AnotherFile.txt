@@ -1,4 +1,4 @@
 Some text
 More text
-MORE text - local version
+MORE text - online version
 final line
